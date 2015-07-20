@@ -9,6 +9,7 @@ get '/' do
 end
 
 
+
 # url = "http://finance.yahoo.com/q?s=AAPL"
 #
 # response = HTTParty.get url
