@@ -1,14 +1,12 @@
-require 'httparty'
-require 'nokogiri'
 require 'sinatra'
 
 # post '/' do
 #   "this is posting\n"
 # end
 #
-# get '/' do
-#   "this is getting\n"
-# end
+get '/' do
+  File.read(File.join('public', 'portfolio.html')
+end
 
 
 # url = "http://finance.yahoo.com/q?s=AAPL"
