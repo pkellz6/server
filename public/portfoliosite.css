@@ -158,9 +158,9 @@ section.intro div.summary {
 section.intro div.preamble {
   background: rgba(79, 209, 220, 0.9);
   position: relative;
-  left: -5.5em;
+  left: -4.5em;
   padding: 5% 5% 5% 5%;
-  font-size: 1.15em
+  font-size: 0.95em
 }
 
 div.main {
